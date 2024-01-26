@@ -41,3 +41,15 @@ body {
 .przycisk:hover{
     background: darkgray;
 }
+
+.msg-status{
+    display: none;
+    text-align: center;
+    width: 30%;
+    height: 5%;
+}
+
+.success{
+    display: flex;
+    background-color: cornflowerblue;
+}
